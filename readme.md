@@ -25,3 +25,14 @@ Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzion
 NB edge cases:
 - Se scrivo con la maiuscola, non la legge come palindroma
 - Se scrivo una lettera o lascio vuoto, la legge come palindroma
+
+## Esercizio 2: pari e dispari
+- Chiedere all'utente di scegliere "pari" o "dispari"
+- Chiedere all'utente di inserire un numero da 1 a 5
+- Funzione: generare un numero random da 1 a 5 per il computer
+- Sommare i numeri ottenuti
+- Funzione per stabilire se un numero è pari o dispari:
+    - SE n % 2 = 0, n è pari
+    - SE n % 2 != 0, n è dispari
+- Stabilire se la somma è pari o dispari
+- Dichiarare chi ha vinto in base alla scelta iniziale
